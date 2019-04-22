@@ -1,0 +1,11 @@
+<<<<<<< HEAD:project-manager-abdullah.txt
+Ahmad Muhammad (FA16-BSE-068)
+Abdullah Muhammad (FA16-BSE-057)
+Gul Haris (FA16-BSE-053)
+=======
+# Author: github.com/ahmad-auth
+
+Muhammad Ahmad (FA16-BSE-068)
+Muhammad Abdullah (FA16-BSE-057)
+Haris Gul (FA16-BSE-053)
+>>>>>>> version-ahmad:project-manager-ahmad.txt
